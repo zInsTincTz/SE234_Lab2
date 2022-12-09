@@ -159,3 +159,5 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask: :comet:
+
+:thinking: 642115017 Dusit
