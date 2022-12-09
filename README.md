@@ -161,3 +161,4 @@ Emoji:
 :mask: :comet:
 
 :thinking: 642115017 Dusit
+642115006 Jakkaphat
